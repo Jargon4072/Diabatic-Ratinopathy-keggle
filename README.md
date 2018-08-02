@@ -1,2 +1,2 @@
-# Diabatic-Ratinopathy-keggle
-My solution for keggle's diabatic ratinopathy contest.
+# Diabatic-Ratinopathy-kaggle
+My solution for kaggle's diabatic ratinopathy contest.
