@@ -1,2 +1,2 @@
-# Diabatic-Ratinopathy-kaggle
-My solution for kaggle's diabatic ratinopathy contest.
+# Fundus_BloodVessels
+My solution for extracting blood vessels from fundus images accurately.
