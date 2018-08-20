@@ -8,7 +8,7 @@
 
 #Python
 import numpy as np
-import ConfigParser
+import configparser as ConfigParser
 from matplotlib import pyplot as plt
 #Keras
 from keras.models import model_from_json
